@@ -1,5 +1,4 @@
 # StockScreener
 
 To Do 
-- Link HTML
-- Form 
+- Add index page
