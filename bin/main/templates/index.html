@@ -6,7 +6,9 @@
     <link rel="stylesheet" th:href="@{./css/styles.css}"/>
 </head>
 <body>
-    <h1>Hello</h1>
-    <p th:text="${stock}"/>
+    <form method="POST">
+        <input type="text">
+        <button type="submit" name="symbol">Search a stock</button>
+    </form>
 </body>
 </html>
